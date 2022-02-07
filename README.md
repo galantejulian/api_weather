@@ -1,5 +1,6 @@
 # api_weather
-app que utiliza la geolocalización del usuario y presenta información sobre el clima del lugar.
+
+app that uses the user's geolocation and presents information about the climate of the place.
 
 ![Screenshot](app_clima.png)
 
@@ -7,13 +8,12 @@ app que utiliza la geolocalización del usuario y presenta información sobre el
 
 
 
-
-
-Tecnologías:
+Technologies:
 
 HTML
-Css
-JavaScript
+css
+javascript
 
-App desarrollada a modo de practica para profundizar en los conceptos vistos en el modulo de APIs del curso Full Stack Developer de Digital House.
+App developed as a practice to delve into the concepts seen in the APIs module of the Digital House Full Stack Developer course.
+🌤   🌦   🌞
 
